@@ -5,7 +5,7 @@
   </a>
   <br><br>
 
-  <img src="https://files.catbox.moe/bqvgyx.jpg" alt="Funny gif" />
+  <img src="https://files.catbox.moe/qh28nn.jpg" alt="Funny gif" />
 
 
 </div>
