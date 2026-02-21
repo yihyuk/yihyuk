@@ -9,8 +9,6 @@
   
 ![Profile views](https://komarev.com/ghpvc/?username=cupidscharm&color=201818&label=🎼&style=plastic)
 &nbsp;&nbsp;&nbsp;
-(ᴗ ᵔ _ ᵔ)
-&nbsp;&nbsp;&nbsp;
 [ata](https://disgust.atabook.org/)
 &nbsp;&nbsp;&nbsp;
 [about me](https://rentry.co/aniteez)
