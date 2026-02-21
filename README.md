@@ -7,7 +7,13 @@
   </a>
   <br><br>
   
-![Profile views](https://komarev.com/ghpvc/?username=cupidscharm&color=201818&label=🎼&style=plastic) ‎ [ata](https://disgust.atabook.org/)‎ ‎ [about me](https://rentry.co/aniteez)
+![Profile views](https://komarev.com/ghpvc/?username=cupidscharm&color=201818&label=🎼&style=plastic)
+&nbsp;&nbsp;&nbsp;
+(ᴗ ᵔ _ ᵔ)
+&nbsp;&nbsp;&nbsp;
+[ata](https://disgust.atabook.org/)
+&nbsp;&nbsp;&nbsp;
+[about me](https://rentry.co/aniteez)
 
   <img src="https://files.catbox.moe/o3voa9.gif" alt="Funny gif" />
 
