@@ -9,6 +9,6 @@
 
   <img src="https://files.catbox.moe/o3voa9.gif" alt="Funny gif" />
 
-[ata](https://disgust.atabook.org/)‎ ‎ 
+[ata](https://disgust.atabook.org/)‎ ‎ [about me](https://rentry.co/aniteez)
 </div>
 
