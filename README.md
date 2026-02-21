@@ -11,7 +11,7 @@
 &nbsp;&nbsp;&nbsp;
 [ata](https://disgust.atabook.org/)
 &nbsp;&nbsp;&nbsp;
-[about me](https://rentry.co/aniteez)
+[listo](https://listography.com/wen?m=0580652416)
 
   <img src="https://files.catbox.moe/o3voa9.gif" alt="Funny gif" />
 
