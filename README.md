@@ -6,14 +6,21 @@
 
   </a>
   <br><br>
-  
-![Profile views](https://komarev.com/ghpvc/?username=cupidscharm&color=201818&label=🎼&style=plastic)
-&nbsp;&nbsp;&nbsp;
-[ata](https://disgust.atabook.org/)
-&nbsp;&nbsp;&nbsp;
-[listo](https://listography.com/wen?m=0580652416)
 
   <img src="https://files.catbox.moe/o3voa9.gif" alt="Funny gif" />
 
 </div>
 
+<div align="center">
+
+![Profile views](https://komarev.com/ghpvc/?username=cupidscharm&color=201818&label=𖹭&style=plastic)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[ata](https://disgust.atabook.org/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[listo](https://listography.com/wen?m=0580652416)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[rentry](rentry.co/aniteez)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+( • ᴖ • ｡)
+
+</div>
