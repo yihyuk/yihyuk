@@ -17,10 +17,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [ata](https://disgust.atabook.org/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[listo](https://listography.com/wen?m=0580652416)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[rentry](rentry.co/aniteez)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ( • ᴖ • ｡)
 
 </div>
