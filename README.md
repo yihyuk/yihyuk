@@ -1,26 +1,21 @@
 <div align="center">
 
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=dg53u4fmum9qamb8swjncore5&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=000000&bar_color_cover=false" alt="Spotify GitHub Profile" />
-  </a>
 
   </a>
   <br><br>
 
-  <img src="https://files.catbox.moe/rdwmbb.jpg" alt="Funny gif" />
+  <img src="https://files.catbox.moe/qhoyej.gif" alt="Funny gif" />
 
 </div>
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=cupidscharm&color=201818&label=𖹭&style=plastic)
 &nbsp;&nbsp;&nbsp;&nbsp;
-[atabook](https://disgust.atabook.org/)
+[01](https://disgust.atabook.org/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[rentry](https://rentry.co/jiuhuo)
+[02](https://rentry.co/jiuhuo)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[crd](https://hudcon.crd.co/)
+[03](https://hudcon.crd.co/)
 &nbsp;&nbsp;&nbsp;&nbsp;
-( • ᴖ • ｡)
 
 </div>
