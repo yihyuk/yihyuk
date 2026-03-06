@@ -10,11 +10,11 @@
 <div align="center">
 
 &nbsp;&nbsp;&nbsp;&nbsp;
-[01](https://disgust.atabook.org/)
+[新](https://disgust.atabook.org/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[02](https://rentry.co/sit)
+[info](https://rentry.co/sit)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[03](https://hudcon.crd.co/)
+[crd](https://hudcon.crd.co/)
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 </div>
