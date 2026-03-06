@@ -7,16 +7,20 @@
   </a>
   <br><br>
 
-  <img src="https://files.catbox.moe/o3voa9.gif" alt="Funny gif" />
+  <img src="https://files.catbox.moe/rdwmbb.jpg" alt="Funny gif" />
 
 </div>
 
 <div align="center">
 
 ![Profile views](https://komarev.com/ghpvc/?username=cupidscharm&color=201818&label=𖹭&style=plastic)
+&nbsp;&nbsp;&nbsp;&nbsp;
+[atabook](https://disgust.atabook.org/)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[ata](https://disgust.atabook.org/)
+[rentry](https://rentry.co/jiuhuo)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[crd](https://hudcon.crd.co/)
+&nbsp;&nbsp;&nbsp;&nbsp;
 ( • ᴖ • ｡)
 
 </div>
