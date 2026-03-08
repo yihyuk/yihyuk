@@ -3,7 +3,7 @@
   </a>
   <br><br>
 
-  <img src="https://files.catbox.moe/rxbcvw.gif" alt="Funny gif" />
+  <img src="https://files.catbox.moe/299wok.gif" alt="Funny gif" />
 
 </div>
 
