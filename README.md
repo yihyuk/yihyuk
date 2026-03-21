@@ -1,20 +1,10 @@
-<div align="center">
-
-  </a>
-  <br><br>
-
-  <img src="https://files.catbox.moe/299wok.gif" alt="Funny gif" />
-
-</div>
-
-<div align="center">
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-[新](https://disgust.atabook.org/)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[info](https://rentry.co/sit)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[crd](https://hudcon.crd.co/)
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-</div>
+<p align="center">
+  <img src="https://files.catbox.moe/njquoa.gif" alt="Funny gif" /><br><br>
+  <a href="https://disgust.atabook.org/">新BOOK</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://rentry.co/sit">RENTRY</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://hudcon.crd.co/">CARRD</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  മ◡മ ♪♪
+</p>
