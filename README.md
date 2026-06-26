@@ -1,4 +1,4 @@
 <p align="center">
-  <img src="https://files.catbox.moe/9d7x9o.jpg" alt="Funny gif" />
+  <img src="https://files.catbox.moe/hfv836.jpg" alt="Funny gif" />
 </p>
 
